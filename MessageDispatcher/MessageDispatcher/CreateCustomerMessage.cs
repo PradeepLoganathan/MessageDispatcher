@@ -6,5 +6,6 @@ namespace MessageDispatcher
 {
     class CreateCustomerMessage
     {
+        public string Custommessage { get; set; }
     }
 }
